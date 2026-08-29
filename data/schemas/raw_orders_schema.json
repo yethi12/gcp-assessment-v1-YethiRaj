@@ -1,0 +1,43 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "RawOrdersSchema",
+  "description": "Schema definition for incoming raw retail transactions",
+  "type": "object",
+  "properties": {
+    "order_id": {
+      "type": "string",
+      "pattern": "^ORD-\\d{5}$"
+    },
+    "order_date": {
+      "type": "string",
+      "description": "Order date in YYYY-MM-DD or YYYY/MM/DD format"
+    },
+    "store_id": {
+      "type": "string",
+      "pattern": "^ST-\\d{3}$"
+    },
+    "product_id": {
+      "type": "string",
+      "pattern": "^SKU-[A-Z]{2}-\\d{3}$"
+    },
+    "product_name": {
+      "type": ["string", "null"]
+    },
+    "category": {
+      "type": ["string", "null"],
+      "enum": ["Beauty", "Toys", "Home", "Apparel", "Grocery", "Electronics", "Stationery", null]
+    },
+    "quantity": {
+      "type": ["integer", "null"],
+      "description": "Positive for sales, negative for customer returns"
+    },
+    "unit_price": {
+      "type": ["number", "null"]
+    },
+    "region": {
+      "type": "string",
+      "enum": ["East", "West", "North", "South", "Central"]
+    }
+  },
+  "required": ["order_id", "order_date", "store_id", "product_id", "region"]
+}

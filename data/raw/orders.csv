@@ -1,0 +1,22 @@
+order_id,order_date,store_id,product_id,product_name,category,quantity,unit_price,region
+ORD-03419,2026-07-01,ST-003,SKU-BE-004,Hand Cream 100ml,Beauty,3,1.99,East
+ORD-02728,2026-06-06,ST-009,SKU-TY-001,Wooden Puzzle Set,Toys,2,7.99,East
+ORD-02012,2026-05-10,ST-006,SKU-TY-003,Plush Bear Medium,Toys,5,6.49,North
+ORD-01657,2026-04-28,ST-017,SKU-HM-003,Cotton Bedsheet Set,Home,2,14.99,West
+ORD-04504,2026-08-07,ST-018,SKU-AP-005,Rain Jacket,Apparel,1,18.99,North
+ORD-03759,2026-07-12,ST-014,SKU-GR-004,Whole Wheat Pasta 1kg,Grocery,1,1.99,Central
+ORD-01283,2026-04-14,ST-024,SKU-GR-001,Organic Almonds 500g,Grocery,2,6.49,West
+ORD-04981,2026-08-24,ST-020,SKU-AP-003,Denim Jacket,Apparel,2,23.99,Central
+ORD-03490,2026-07-03,ST-014,SKU-HM-003,Cotton Bedsheet Set,Home,4,14.99,South
+ORD-00366,2026-03-13,ST-015,SKU-EL-005,Smartwatch Band,Electronics,2,7.99,West
+ORD-01383,2026-04-18,ST-020,SKU-GR-004,Whole Wheat Pasta 1kg,Grocery,-3,1.99,East
+ORD-01516,2026-04-23,ST-010,SKU-TY-004,Board Game Family Pack,Toys,,14.99,North
+ORD-03864,2026-07-16,ST-016,SKU-AP-001,Cotton T-Shirt,Apparel,1,,South
+ORD-02028,2026-05-11,ST-006,SKU-GR-005,,Grocery,3,1.79,North
+ORD-05072,2026/08/26,ST-014,SKU-GR-003,Extra Virgin Olive Oil 1L,Grocery,3,8.99,Central
+ORD-04914,2026-08-21,ST-011,SKU-EL-002,USB-C Charger 30W,Electronics,1,,West
+ORD-04121,2026-07-24,ST-008,SKU-AP-003,Denim Jacket,Apparel,1,,Central
+ORD-04794,2026-08-17,ST-012,SKU-AP-002,Running Shoes,Apparel,-3,29.99,Central
+ORD-04369,2026-08-03,ST-007,SKU-ST-004,Sticky Notes Set,Stationery,-5,0.99,North
+ORD-00808,2026-03-28,ST-016,SKU-BE-005,Lip Balm Pack of 3,Beauty,-5,1.49,Central
+ORD-02547,2026-05-30,ST-021,SKU-HM-002,LED Desk Lamp,Home,-4,11.99,Central

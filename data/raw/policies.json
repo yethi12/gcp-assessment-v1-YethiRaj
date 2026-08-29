@@ -1,0 +1,110 @@
+[
+  {
+    "doc_id": "NSR-POL-RET-014",
+    "title": "NorthStar Retail Return and Refund Policy",
+    "version": "3.2",
+    "sections": [
+      {
+        "section_id": "1",
+        "title": "Purpose and Scope",
+        "content": "This policy applies to all Product categories sold under the NorthStar Retail brand, subject to category exclusions in Section 4. It governs how return requests are evaluated across website, mobile app, and pop-up locations."
+      },
+      {
+        "section_id": "3",
+        "title": "Return Window and Item Condition",
+        "content": "Customers have 30 days from the Delivery Date to initiate a return. The 30 day window is measured from the Delivery Date recorded by the carrier, not the Order date. Where an order contains multiple products with different delivery dates in a split shipment, each product's 30 day window runs independently from its own delivery date."
+      },
+      {
+        "section_id": "3.1",
+        "title": "Standard Condition Requirements & Restocking Fee",
+        "content": "Returned products must be in original packaging with all accessories, manuals, and tags attached. Items used beyond basic trial or missing original packaging may be accepted with a 10 percent restocking fee deduction. Misused or damaged items may be declined."
+      },
+      {
+        "section_id": "4.1",
+        "title": "Grocery and Final Sale Exclusions",
+        "content": "Grocery items and any Product marked Final Sale at purchase are strictly non-returnable and not eligible for refund under any condition, because Grocery items are perishable and cannot be safely resold."
+      },
+      {
+        "section_id": "4.2",
+        "title": "Store Credit and Gift Card Purchases",
+        "content": "Products purchased with store credit or gift cards are eligible for return under standard terms; refunds are credited back as store credit."
+      },
+      {
+        "section_id": "5.2",
+        "title": "Return Shipping",
+        "content": "A prepaid return label is issued automatically at no cost for defective or incorrect items. For change-of-mind returns, the customer pays return shipping unless a promotional free-returns period was active."
+      },
+      {
+        "section_id": "6.1",
+        "title": "Refund Method & Processing Timeline",
+        "content": "Refunds are issued to original payment method within 5 to 7 Business Days after receipt and inspection at the returns center. Expired cards receive store credit."
+      },
+      {
+        "section_id": "10",
+        "title": "Additional Terms for Customers Located in India",
+        "content": "For customers in India, more favorable rights under the Consumer Protection Act apply. Unresolved grievances can be escalated to the designated Grievance Officer, who will acknowledge and respond per statutory timelines. Customers retain the right to approach Consumer Disputes Redressal Commissions directly."
+      }
+    ]
+  },
+  {
+    "doc_id": "NSR-POL-SUP-005",
+    "title": "NorthStar Retail Customer Support Policy",
+    "version": "1.6",
+    "sections": [
+      {
+        "section_id": "3.1",
+        "title": "Support Channels & Hours",
+        "content": "Support is available via live chat and email, Monday through Saturday, from 9 AM to 7 PM local time. Live chat is the fastest response channel."
+      },
+      {
+        "section_id": "3.2",
+        "title": "Phone Support Eligibility",
+        "content": "Phone support callback is available for high-value orders once a chat ticket is initiated and reviewed."
+      },
+      {
+        "section_id": "4",
+        "title": "Response Time Commitments (SLA)",
+        "content": "Standard support tickets are resolved within 24 hours. Complex warranty inspection cases can take up to 7 Business Days."
+      },
+      {
+        "section_id": "5",
+        "title": "Escalation Process",
+        "content": "Tickets without substantive updates within SLA can be escalated for supervisor review by replying to the ticket. Supervisors respond within 1 additional Business Day."
+      },
+      {
+        "section_id": "7",
+        "title": "Language Support",
+        "content": "Primary support is English. Translated correspondence can be arranged specifically for warranty and return inquiries."
+      }
+    ]
+  },
+  {
+    "doc_id": "NSR-DOC-SIZ-001",
+    "title": "NorthStar Retail Apparel Sizing Guide",
+    "version": "1.0",
+    "sections": [
+      {
+        "section_id": "1",
+        "title": "General Sizing & Denim Jacket Exception",
+        "content": "Apparel uses standard S, M, L, XL sizes. Most items run true to size. Exception: Denim Jackets run approximately one size small; customers between sizes are advised to size up."
+      },
+      {
+        "section_id": "2",
+        "title": "Free Size Exchange Policy",
+        "content": "One free size exchange is permitted per order within the 30-day window. Subsequent size exchanges on the same order are processed as standard return and repurchase."
+      }
+    ]
+  },
+  {
+    "doc_id": "NSR-DOC-STA-001",
+    "title": "Stationery Category Policy Guidelines",
+    "version": "1.0",
+    "sections": [
+      {
+        "section_id": "1",
+        "title": "Return Eligibility and Warranty Exclusion",
+        "content": "Stationery items follow standard 30-day return policy and are eligible for return. Stationery is not covered by electronics warranties. Quality issues are handled via standard returns. Bulk order discounts are available upon inquiry."
+      }
+    ]
+  }
+]
