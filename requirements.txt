@@ -1,0 +1,28 @@
+# Core Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+duckdb>=0.9.0
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+python-dotenv>=1.0.0
+
+# API & Web Interface
+fastapi>=0.110.0
+uvicorn>=0.28.0
+
+# AI & LLM / RAG
+google-generativeai>=0.5.0
+scikit-learn>=1.3.0
+
+# Optional GCP Live Libraries (mock mode operates without them)
+google-cloud-storage>=2.14.0
+google-cloud-bigquery>=3.17.0
+google-cloud-pubsub>=2.19.0
+google-cloud-aiplatform>=1.42.0
+
+# Testing & Quality
+pytest>=7.4.0
+pytest-cov>=4.1.0
+flake8>=6.1.0
+black>=23.9.0
+httpx>=0.25.0
