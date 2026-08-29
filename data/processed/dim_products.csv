@@ -1,0 +1,19 @@
+product_id,product_name,category,unit_price,is_returnable
+SKU-BE-004,Hand Cream 100ml,Beauty,1.99,True
+SKU-TY-001,Wooden Puzzle Set,Toys,7.99,True
+SKU-TY-003,Plush Bear Medium,Toys,6.49,True
+SKU-HM-003,Cotton Bedsheet Set,Home,14.99,True
+SKU-AP-005,Rain Jacket,Apparel,18.99,True
+SKU-GR-004,Whole Wheat Pasta 1kg,Grocery,1.99,False
+SKU-GR-001,Organic Almonds 500g,Grocery,6.49,False
+SKU-AP-003,Denim Jacket,Apparel,23.99,True
+SKU-EL-005,Smartwatch Band,Electronics,7.99,True
+SKU-TY-004,Board Game Family Pack,Toys,14.99,True
+SKU-AP-001,Cotton T-Shirt,Apparel,4.99,True
+SKU-GR-005,Dark Chocolate Bar,Grocery,1.79,False
+SKU-GR-003,Extra Virgin Olive Oil 1L,Grocery,8.99,False
+SKU-EL-002,USB-C Charger 30W,Electronics,8.99,True
+SKU-AP-002,Running Shoes,Apparel,29.99,True
+SKU-ST-004,Sticky Notes Set,Stationery,0.99,True
+SKU-BE-005,Lip Balm Pack of 3,Beauty,1.49,True
+SKU-HM-002,LED Desk Lamp,Home,11.99,True

@@ -1,0 +1,8 @@
+category,total_orders,gross_sales,refunds,net_revenue,units_sold,units_returned
+Apparel,5,95.94999999999999,89.97,5.97999999999999,5,3
+Beauty,2,5.97,7.45,-1.4800000000000004,3,5
+Electronics,2,24.97,0.0,24.97,3,0
+Grocery,5,47.31,5.97,41.34,9,3
+Home,3,89.94,47.96,41.980000000000004,6,4
+Stationery,1,0.0,4.95,-4.95,0,5
+Toys,3,63.42000000000001,0.0,63.42000000000001,8,0
